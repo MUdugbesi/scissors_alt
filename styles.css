@@ -617,3 +617,13 @@ footer {
 	flex-direction: column;
 	gap: 50px;
 }
+
+.footer-links-ctn ul li {
+	list-style: none;
+	padding-top: 3px;
+}
+
+.footer-links-ctn ul li a {
+	color: black;
+	font-size: 14px;
+}
